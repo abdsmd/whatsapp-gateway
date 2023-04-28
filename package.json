@@ -29,7 +29,7 @@
         ]
     },
     "repository": "git@github.com:abdsmd/whatsapp-gateway.git",
-    "author": "Mohd Salman Ansari <abdsmd@gmail.com>",
+    "author": "Abdus Samad <abdsmd@gmail.com>",
     "license": "MIT",
     "dependencies": {
         "@adiwajshing/baileys": "^5.0.0",
