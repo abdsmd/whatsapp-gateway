@@ -4,7 +4,7 @@
     "description": "whatsapp-gateway is based on top of Baileys-MD",
     "main": "server.js",
     "scripts": {
-        "start": "node ./server.js",
+        "start": "node ./index.js",
         "dev": "./node_modules/nodemon/bin/nodemon.js",
         "format:check": "prettier --check .",
         "format:write": "prettier --write .",
