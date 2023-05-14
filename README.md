@@ -2,9 +2,9 @@
 Whatsapp Gateway
 ```
 npm -v
-8.19.2
-
+9.6.3
 
 node -v
-v16.18.1
+v16.19.1
+
 ```
